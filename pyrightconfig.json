@@ -6,7 +6,10 @@
     "**/.ipynb_checkpoints",
     "**/__pycache__",
     "**/.vscode",
-    "**/.pytest_cache"
+    "**/.pytest_cache",
+    "**/.history",
+    "**/data",
+    "**/artifacts"
   ],
 
   "stubPath": "src/stubs",
